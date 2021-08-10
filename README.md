@@ -42,6 +42,7 @@ X = df.iloc[:, 1:17]
 X.head()
 ```
 
+![output2.jpg](https://github.com/ryankellmer/Project_5160/blob/master/Pictures/output2.jpg)
 Y will represent the Dependent variable. This will be a value between 1 and 7.
 
 
@@ -75,6 +76,8 @@ Compare our testing data to our trained classifier to see how accuratly it can p
 ```python
 print("Accuracy Score: ", clf_df.score(X_test, y_test))
 ```
+
+![output3.jpg](https://github.com/ryankellmer/Project_5160/blob/master/Pictures/output3.jpg)
 
 ## Display the Decision Tree Classifier
 
