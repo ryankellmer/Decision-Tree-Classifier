@@ -31,6 +31,7 @@ df = pd.read_csv('zoo.csv')
 
 df
 ```
+![output1.jpg](https://github.com/ryankellmer/Project_5160/blob/master/Pictures/output1.jpg)
 
 X will represent the Independent variable. This includes all the attributes from hair to catsize. 
 
