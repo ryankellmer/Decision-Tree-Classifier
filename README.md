@@ -90,4 +90,4 @@ plt.figure(figsize=(15, 7.5))
 plot_tree(clf_df, filled= True, rounded= True, class_names= ["Mammal", "Bird", "Reptile", "Fish", "Amphibian", "Bug", "Invertebrate"], feature_names= X.columns );
 ```
 
-![output.png](https://github.com/ryankellmer/Project_5160/blob/master/output.png)
+![output.png](https://github.com/ryankellmer/Project_5160/blob/master/Pictures/output.png)
